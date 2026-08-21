@@ -13,8 +13,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @license      MIT
-// @downloadURL  https://update.greasyfork.org/scripts/530997/%E6%B4%9B%E8%B0%B7%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96.user.js
-// @updateURL    https://update.greasyfork.org/scripts/530997/%E6%B4%9B%E8%B0%B7%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96.user.js
+// @downloadURL  https://github.com/lyx-axxs/luogu_submission_better_improved-version/raw/refs/heads/main/%E6%B4%9B%E8%B0%B7%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96%E6%94%B9%E8%89%AF%E7%89%88.user.js
+// @updateURL    https://github.com/lyx-axxs/luogu_submission_better_improved-version/raw/refs/heads/main/%E6%B4%9B%E8%B0%B7%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96%E6%94%B9%E8%89%AF%E7%89%88.user.js
 // ==/UserScript==
 
 (function () {
