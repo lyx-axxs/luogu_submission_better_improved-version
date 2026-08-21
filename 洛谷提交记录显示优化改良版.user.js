@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         洛谷提交记录显示优化
-// @namespace    https://github.com/chenyuxuan2009/luogu_submission_better
+// @namespace    https://github.com/lyx-axxs/luogu_submission_better_improved-version
 // @version      3.0
 // @description  修改提交记录背景，新增独立插件设置页面
 // @author       lyx_axxs
